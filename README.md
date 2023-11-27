@@ -1,4 +1,4 @@
-# SALES-OLS-linear-regression-MODEL-Python
+# :bar_chart::chart_with_upwards_trend::studio_microphone: SALES OLS linear regression MODEL with Python
 ![image](https://github.com/FedeMaguire/SALES-OLS-linear-regression-MODEL-Python/blob/main/screenshots/Screenshot%202023-11-27%20153258.jpg?raw=true)
 # Overview
 Using simple linear regression to explore the relationship between two continuous variables. Performing a simple linear regression analysis, which includes creating and fitting a model, checking model assumptions, analyzing model performance, interpreting model coefficients, and communicating results to stakeholders.
